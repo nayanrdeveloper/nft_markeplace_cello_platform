@@ -1,0 +1,33 @@
+{
+  "name": "cello_nft_marketplace",
+  "version": "1.0.0",
+  "description": "NFT marketplace deployed in Cello platfrom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nayanrdeveloper/nft_markeplace_cello_platform.git"
+  },
+  "keywords": [
+    "cello",
+    "nft",
+    "marketplace",
+    "solidity",
+    "next"
+  ],
+  "author": "Nayan Radadiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nayanrdeveloper/nft_markeplace_cello_platform/issues"
+  },
+  "homepage": "https://github.com/nayanrdeveloper/nft_markeplace_cello_platform#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "hardhat": "^2.12.2"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0"
+  }
+}
